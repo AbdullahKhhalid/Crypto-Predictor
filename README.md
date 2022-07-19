@@ -1,1 +1,1 @@
-# Crypto-Predictor
+This was my Bachelor's Final Year Project. This is a cryptocurrency predictor that takes latest cryptocurrency prices and performs LSTM training model on them to predict its value in either 1 day, 7 days or 15 days. Basically, the predictor takes values from yahoo API and uses LSTM model on that data. The results are displayed on a website that was developed on Bootstrap, CSS, JavaScript and Django.
